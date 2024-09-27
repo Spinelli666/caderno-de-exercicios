@@ -1,3 +1,5 @@
+### Arquivo HTML
+
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -26,6 +28,8 @@
 </body>
 </html>
 ```
+
+### Arquivo CSS
 
 ```css
 body {
@@ -58,6 +62,8 @@ footer {
     font-style: italic;
 }
 ```
+
+### Arquivo JS
 
 ```js
 function carregar() {
